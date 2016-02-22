@@ -1,0 +1,92 @@
+PCBNEW-LibModule-V1  Sun 26 Apr 2015 08:56:23 PM CEST
+# encoding utf-8
+Units mm
+$INDEX
+bornier10
+$EndINDEX
+$MODULE bornier10
+Po 0 0 0 15 553D301D 00000000 ~~
+Li bornier10
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.54 1 1 0 0.15 N V 21 N "bornier10"
+T1 0 2.54 1 1 0 0.15 N V 21 N "VAL**"
+DS -14.25 3.1 -9.6 3.1 0.15 21
+DS -14.25 -3.1 -11.15 -3.1 0.15 21
+DS 11.71 3.1 -11.54 3.1 0.15 21
+DS 11.71 -3.1 -11.54 -3.1 0.15 21
+DS 11.71 -3.1 11.71 3.1 0.15 21
+DS -14.25 -3.1 -14.25 3.1 0.15 21
+$PAD
+Sh "1" C 2.1 2.1 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -12.7 0
+$EndPAD
+$PAD
+Sh "2" C 2.1 2.1 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -10.16 0
+$EndPAD
+$PAD
+Sh "3" C 2.1 2.1 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -7.62 0
+$EndPAD
+$PAD
+Sh "4" C 2.1 2.1 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -5.08 0
+$EndPAD
+$PAD
+Sh "5" C 2.1 2.1 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "6" C 2.1 2.1 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "7" C 2.1 2.1 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "8" C 2.1 2.1 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 5.08 0
+$EndPAD
+$PAD
+Sh "9" C 2.1 2.1 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$PAD
+Sh "10" C 2.1 2.1 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 10.16 0
+$EndPAD
+$EndMODULE bornier10
+$EndLIBRARY
