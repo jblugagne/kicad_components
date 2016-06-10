@@ -1,0 +1,31 @@
+PCBNEW-LibModule-V1  Fri 10 Jun 2016 12:08:48 AM CEST
+# encoding utf-8
+Units mm
+$INDEX
+1Fcapa
+$EndINDEX
+$MODULE 1Fcapa
+Po 0 0 0 15 5759E8DF 00000000 ~~
+Li 1Fcapa
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -2.5 1 1 0 0.15 N V 21 N "1Fcapa"
+T1 0.25 4.75 1 1 0 0.15 N V 21 N "VAL**"
+DC 0 0 0 -4 0.15 21
+$PAD
+Sh "1" C 2.75 2.75 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.75 0
+$EndPAD
+$PAD
+Sh "2" C 2.75 2.75 0 0 0
+Dr 1.1 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.75 0
+$EndPAD
+$EndMODULE 1Fcapa
+$EndLIBRARY

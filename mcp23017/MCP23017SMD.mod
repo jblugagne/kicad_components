@@ -1,0 +1,648 @@
+PCBNEW-LibModule-V1  Wed 10 Jun 2015 07:08:12 PM CEST
+# encoding utf-8
+Units mm
+$INDEX
+MCP23017 E/SO
+MCP23017ESO
+MCP23017_ESO
+$EndINDEX
+$MODULE MCP23017 E/SO
+Po 0 0 0 15 553E8D4E 00000000 ~~
+Li MCP23017 E/SO
+Sc 0
+AR 
+Op 0 0 0
+T0 3.175 -4.445 1 1 0 0.15 N V 21 N "MCP23017 E/SO"
+T1 6.35 5.08 1 1 0 0.15 N V 21 N "VAL**"
+DS -7.62 1.27 -8.255 1.27 0.15 21
+DS -7.62 -1.27 -8.255 -1.27 0.15 21
+DA -8.89 0 -7.62 -1.27 900 0.15 21
+DC -7.62 5.08 -7.366 4.826 0.15 21
+DS -8.255 -5.715 9.525 -5.715 0.15 21
+DS 9.525 -5.715 9.525 5.715 0.15 21
+DS 9.525 5.715 -8.255 5.715 0.15 21
+DS -8.255 5.715 -8.255 -5.715 0.15 21
+$PAD
+Sh "15" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.89 -6.35
+$EndPAD
+$PAD
+Sh "16" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.62 -6.35
+$EndPAD
+$PAD
+Sh "17" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.35 -6.35
+$EndPAD
+$PAD
+Sh "18" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 -6.35
+$EndPAD
+$PAD
+Sh "19" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.81 -6.35
+$EndPAD
+$PAD
+Sh "20" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 -6.35
+$EndPAD
+$PAD
+Sh "21" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 -6.35
+$EndPAD
+$PAD
+Sh "22" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -6.35
+$EndPAD
+$PAD
+Sh "23" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 -6.35
+$EndPAD
+$PAD
+Sh "24" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.54 -6.35
+$EndPAD
+$PAD
+Sh "25" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.81 -6.35
+$EndPAD
+$PAD
+Sh "26" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 -6.35
+$EndPAD
+$PAD
+Sh "27" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.35 -6.35
+$EndPAD
+$PAD
+Sh "28" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.62 -6.35
+$EndPAD
+$PAD
+Sh "1" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.62 6.35
+$EndPAD
+$PAD
+Sh "2" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.35 6.35
+$EndPAD
+$PAD
+Sh "3" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 6.35
+$EndPAD
+$PAD
+Sh "4" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.81 6.35
+$EndPAD
+$PAD
+Sh "5" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.54 6.35
+$EndPAD
+$PAD
+Sh "6" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 6.35
+$EndPAD
+$PAD
+Sh "7" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 6.35
+$EndPAD
+$PAD
+Sh "8" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 6.35
+$EndPAD
+$PAD
+Sh "9" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 6.35
+$EndPAD
+$PAD
+Sh "10" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.81 6.35
+$EndPAD
+$PAD
+Sh "11" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 6.35
+$EndPAD
+$PAD
+Sh "12" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.35 6.35
+$EndPAD
+$PAD
+Sh "13" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.62 6.35
+$EndPAD
+$PAD
+Sh "14" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.89 6.35
+$EndPAD
+$EndMODULE MCP23017 E/SO
+$MODULE MCP23017ESO
+Po 0 0 0 15 55786ECB 00000000 ~~
+Li MCP23017ESO
+Sc 0
+AR 
+Op 0 0 0
+T0 2.54 -3.81 1 1 0 0.15 N V 21 N "MCP23017 E/SO"
+T1 0 3.81 1 1 0 0.15 N V 21 N "VAL**"
+DS -8.255 -4.445 -8.255 4.445 0.15 21
+DS 9.525 -4.445 9.525 4.445 0.15 21
+DS -7.62 1.27 -8.255 1.27 0.15 21
+DS -7.62 -1.27 -8.255 -1.27 0.15 21
+DA -8.89 0 -7.62 -1.27 900 0.15 21
+DC -7.62 3.81 -7.366 3.556 0.15 21
+DS -8.255 -4.445 9.525 -4.445 0.15 21
+DS 9.525 4.445 -8.255 4.445 0.15 21
+$PAD
+Sh "15" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.89 -5.08
+$EndPAD
+$PAD
+Sh "16" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.62 -5.08
+$EndPAD
+$PAD
+Sh "17" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.35 -5.08
+$EndPAD
+$PAD
+Sh "18" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 -5.08
+$EndPAD
+$PAD
+Sh "19" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.81 -5.08
+$EndPAD
+$PAD
+Sh "20" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 -5.08
+$EndPAD
+$PAD
+Sh "21" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 -5.08
+$EndPAD
+$PAD
+Sh "22" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -5.08
+$EndPAD
+$PAD
+Sh "23" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 -5.08
+$EndPAD
+$PAD
+Sh "24" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.54 -5.08
+$EndPAD
+$PAD
+Sh "25" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.81 -5.08
+$EndPAD
+$PAD
+Sh "26" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 -5.08
+$EndPAD
+$PAD
+Sh "27" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.35 -5.08
+$EndPAD
+$PAD
+Sh "28" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.62 -5.08
+$EndPAD
+$PAD
+Sh "1" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.62 5.08
+$EndPAD
+$PAD
+Sh "2" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.35 5.08
+$EndPAD
+$PAD
+Sh "3" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 5.08
+$EndPAD
+$PAD
+Sh "4" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.81 5.08
+$EndPAD
+$PAD
+Sh "5" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.54 5.08
+$EndPAD
+$PAD
+Sh "6" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 5.08
+$EndPAD
+$PAD
+Sh "7" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 5.08
+$EndPAD
+$PAD
+Sh "8" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 5.08
+$EndPAD
+$PAD
+Sh "9" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 5.08
+$EndPAD
+$PAD
+Sh "10" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.81 5.08
+$EndPAD
+$PAD
+Sh "11" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 5.08
+$EndPAD
+$PAD
+Sh "12" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.35 5.08
+$EndPAD
+$PAD
+Sh "13" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.62 5.08
+$EndPAD
+$PAD
+Sh "14" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.89 5.08
+$EndPAD
+$EndMODULE MCP23017ESO
+$MODULE MCP23017_ESO
+Po 0 0 0 15 55786C3D 00000000 ~~
+Li MCP23017_ESO
+Sc 0
+AR 
+Op 0 0 0
+T0 2.54 -3.81 1 1 0 0.15 N V 21 N "MCP23017 E/SO"
+T1 0 3.81 1 1 0 0.15 N V 21 N "VAL**"
+DS -8.255 -4.445 -8.255 4.445 0.15 21
+DS 9.525 -4.445 9.525 4.445 0.15 21
+DS -7.62 1.27 -8.255 1.27 0.15 21
+DS -7.62 -1.27 -8.255 -1.27 0.15 21
+DA -8.89 0 -7.62 -1.27 900 0.15 21
+DC -7.62 3.81 -7.366 3.556 0.15 21
+DS -8.255 -4.445 9.525 -4.445 0.15 21
+DS 9.525 4.445 -8.255 4.445 0.15 21
+$PAD
+Sh "15" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.89 -5.08
+$EndPAD
+$PAD
+Sh "16" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.62 -5.08
+$EndPAD
+$PAD
+Sh "17" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.35 -5.08
+$EndPAD
+$PAD
+Sh "18" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 -5.08
+$EndPAD
+$PAD
+Sh "19" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.81 -5.08
+$EndPAD
+$PAD
+Sh "20" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 -5.08
+$EndPAD
+$PAD
+Sh "21" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 -5.08
+$EndPAD
+$PAD
+Sh "22" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -5.08
+$EndPAD
+$PAD
+Sh "23" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 -5.08
+$EndPAD
+$PAD
+Sh "24" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.54 -5.08
+$EndPAD
+$PAD
+Sh "25" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.81 -5.08
+$EndPAD
+$PAD
+Sh "26" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 -5.08
+$EndPAD
+$PAD
+Sh "27" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.35 -5.08
+$EndPAD
+$PAD
+Sh "28" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.62 -5.08
+$EndPAD
+$PAD
+Sh "1" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.62 5.08
+$EndPAD
+$PAD
+Sh "2" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.35 5.08
+$EndPAD
+$PAD
+Sh "3" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.08 5.08
+$EndPAD
+$PAD
+Sh "4" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.81 5.08
+$EndPAD
+$PAD
+Sh "5" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.54 5.08
+$EndPAD
+$PAD
+Sh "6" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.27 5.08
+$EndPAD
+$PAD
+Sh "7" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 5.08
+$EndPAD
+$PAD
+Sh "8" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.27 5.08
+$EndPAD
+$PAD
+Sh "9" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 5.08
+$EndPAD
+$PAD
+Sh "10" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.81 5.08
+$EndPAD
+$PAD
+Sh "11" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 5.08
+$EndPAD
+$PAD
+Sh "12" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.35 5.08
+$EndPAD
+$PAD
+Sh "13" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.62 5.08
+$EndPAD
+$PAD
+Sh "14" R 0.7 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.89 5.08
+$EndPAD
+$EndMODULE MCP23017_ESO
+$EndLIBRARY
